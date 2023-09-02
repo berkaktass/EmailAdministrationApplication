@@ -1,2 +1,3 @@
 # EmailAdministrationApplication
 EmailAdministrationApplication
+It's so simple project EmailAdministrationApplication.
